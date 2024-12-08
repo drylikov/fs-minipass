@@ -1,7 +1,5 @@
 # fs-minipass
 
-Filesystem streams based on [minipass](http://npm.im/minipass).
-
 4 classes are exported:
 
 - ReadStream
